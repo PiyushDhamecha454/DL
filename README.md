@@ -1,2 +1,0 @@
-# DL
-Deep Learning Notes

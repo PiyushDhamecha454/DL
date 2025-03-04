@@ -1,0 +1,37 @@
+# An Introduction
+
+The notes of this course are inspired by a course on YouTube [Neural Networks / Deep Learning - StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+
+____
+
+### Contents
+- [Happy Halloween (Neural Networks Are Not Scary)](https://www.youtube.com/watch?v=zxagGtF9MeU)
+- [The Essential Main Ideas of Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw)
+- [The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ)
+- [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+- [Neural Networks Pt. 2: Backpropagation Main Ideas](https://www.youtube.com/watch?v=IN2XmBhILt4)
+- [Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.](https://www.youtube.com/watch?v=iyn2zdALii8)
+- [Backpropagation Details Pt. 2: Going bonkers with The Chain Rule](https://www.youtube.com/watch?v=GKZoOHXGcLo)
+- [Neural Networks Pt. 3: ReLU In Action!!!](https://www.youtube.com/watch?v=68BZ5f7P94E)
+- [Neural Networks Pt. 4: Multiple Inputs and Outputs](https://www.youtube.com/watch?v=83LYR-1IcjA)
+- [Neural Networks Part 5: ArgMax and SoftMax](https://www.youtube.com/watch?v=KpKog-L9veg)
+- [The SoftMax Derivative, Step-by-Step!!!](https://www.youtube.com/watch?v=M59JElEPgIg)
+- [Neural Networks Part 6: Cross Entropy](https://www.youtube.com/watch?v=6ArSys5qHAU)
+- [Neural Networks Part 7: Cross Entropy Derivatives and Backpropagation](https://www.youtube.com/watch?v=xBEh66V9gZo)
+- [Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)](https://www.youtube.com/watch?v=HGwBXDKFk9I)
+- [Recurrent Neural Networks (RNNs), Clearly Explained!!!](https://www.youtube.com/watch?v=AsNTP8Kwu80)
+- [Long Short-Term Memory (LSTM), Clearly Explained](https://www.youtube.com/watch?v=YCzL96nL7j0)
+- [Word Embedding and Word2Vec, Clearly Explained!!!](https://www.youtube.com/watch?v=viZrOnJclY0)
+- [Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=L8HKweZIOmg)
+- [Attention for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=PSs6nxngL6k)
+- [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY)
+- [Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
+- [Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!!](https://www.youtube.com/watch?v=GDN649X_acE)
+- [Tensors for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=L35fFDpwIM4)
+- [Essential Matrix Algebra for Neural Networks, Clearly Explained!!!](https://www.youtube.com/watch?v=ZTt9gsGcdDo)
+- [The matrix math behind transformer neural networks, one step at a time!!!](https://www.youtube.com/watch?v=KphmOJnLAdI)
+- [The StatQuest Introduction to PyTorch](https://www.youtube.com/watch?v=FHdlXe1bSe4)
+- [Introduction to Coding Neural Networks with PyTorch and Lightning](https://www.youtube.com/watch?v=khMzi6xPbuM)
+- [Long Short-Term Memory with PyTorch + Lightning](https://www.youtube.com/watch?v=RHGiXPuo_pI)
+- [Word Embedding in PyTorch + Lightning](https://www.youtube.com/watch?v=Qf06XDYXCXI)
+- [Coding a ChatGPT Like Transformer From Scratch in PyTorch](https://www.youtube.com/watch?v=C9QSpl5nmrY)
