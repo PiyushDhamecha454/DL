@@ -21,9 +21,9 @@
 ![image](https://github.com/user-attachments/assets/d9c7b939-6257-47bd-85be-f5724a612492)
 ![image](https://github.com/user-attachments/assets/9e97b800-a93e-4c6e-85fb-f753af19d237)
 
-* ![image](https://github.com/user-attachments/assets/b514d12e-739e-4be8-910e-a674f1132a64)
+![image](https://github.com/user-attachments/assets/b514d12e-739e-4be8-910e-a674f1132a64)
 ![image](https://github.com/user-attachments/assets/87dfad08-3d92-4d98-bd17-8c0dd65391f3)
 
 * For large datasets, this approach could be in-efficient.
   So there is a thing,
-  * ![image](https://github.com/user-attachments/assets/3bbd5dae-ae52-4e2b-8183-feb1aefb6d09)
+  ![image](https://github.com/user-attachments/assets/3bbd5dae-ae52-4e2b-8183-feb1aefb6d09)
